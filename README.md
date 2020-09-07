@@ -1,7 +1,9 @@
 # BREAKOUT GAME
-## SUMMARY
-this is a simple code for breakout bricks game for python learning
+SUMMARY
+======
+This is a example of breakout bricks game using python.
 
-## Dependencies
+Dependencies
+======
 campy, use "pip install campy"
 
