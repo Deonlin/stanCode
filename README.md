@@ -1,4 +1,4 @@
-image:: http://media.charlesleifer.com/blog/photos/peewee3-logo.png
+
 # BREAKOUT GAME
 SUMMARY
 ======
